@@ -54,3 +54,14 @@ zed .
 
 
 This was all working fine about a week ago.
+
+
+So just to visualize — when its working, I get my fish shell and everything looks fine and dandy:
+
+<img width="1153" alt="image" src="https://github.com/user-attachments/assets/6b477413-b0e4-46e3-83d5-dc60374b394c">
+
+
+When I open zed from within a devenv-folder it tries bash and seem to have no env setup at all:
+
+<img width="1194" alt="image" src="https://github.com/user-attachments/assets/08141c60-83fe-4fb6-9a8e-2a1469afb523">
+
